@@ -25,7 +25,6 @@ prose:
   siteurl: 'http://brynleydavies.github.io/'
   media: 'media'
   ignore:
-    - index.md
     - _config.yml
     - /_layouts
     - /_includes
