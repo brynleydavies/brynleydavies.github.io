@@ -30,6 +30,11 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /public
+    - /.editorconfig
+    - /.gitignore
+    - /index.html
+    - /atom.xml
   metadata:
     _posts:
       - name: "layout"
