@@ -23,7 +23,6 @@ version:             1.0.0
 
 # Prose vars
 prose:
-  rooturl: '_posts'
   siteurl: 'http://brynleydavies.github.io/'
   media: 'media'
   ignore:
