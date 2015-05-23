@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Service Course Limited
 tagline:             'A home for all your corporate cycling needs'
-description:         ''
+description:         'A sample use of Prose.io for managing a Jekyll powered site.'
 baseurl:             ''
 paginate:            5
 
