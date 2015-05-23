@@ -35,6 +35,8 @@ prose:
     - /index.html
     - /atom.xml
     - /LICENSE.md
+    - /README.md
+    - /404.html
 
   metadata:
     _posts:
