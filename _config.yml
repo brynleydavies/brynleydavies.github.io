@@ -32,7 +32,7 @@ prose:
     - /public
     - /.editorconfig
     - /.gitignore
-    - /index.html
+    - /blog.md
     - /atom.xml
     - /LICENSE.md
     - /README.md
