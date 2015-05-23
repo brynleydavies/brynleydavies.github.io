@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 
+
 #Luxury Scottish Cycling Holidays
+![Scotland-Holiday-Pic.jpg]({{site.baseurl}}/media/Scotland-Holiday-Pic.jpg)
 
 ##Our Reputation
 
