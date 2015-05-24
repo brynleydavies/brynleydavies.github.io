@@ -3,6 +3,7 @@ layout: page
 title: Services
 published: true
 nav: main
+num: 03
 ---
 
 We believe you gain an advantage in building genuine customer relationships and therefore improved return on marketing/hospitality spend by partnering with Service Course Sport to create a coached cycling challenge which takes people out of their comfort zones like no other networking opportunity can.
@@ -18,3 +19,11 @@ We come up with concepts from scratch, bring in product partners/guest speakers,
 Our initial clients and contacts come from the London corporate and professional financial services market, including solicitors, banks, private equity and accountancy firms. We would love to work with businesses from other industry sectors, including charity organisations with a view to building wider networking opportunities for them.
 
 Our focus is absolutely on delivering a return on investment which surpasses your expectations, through strengthening customer relationships, motivating staff, and driving brand awareness. See corporate services for more detail.
+
+[Bespoke Cycling Events To Promote Your Brand](/events)
+
+[Creative Short Away Days / Hospitality Networking Events](/away-days)
+
+[All Encompassing Challenge Training Packages](/challange)
+
+[Fully Supported Tours & Camps](/supported)

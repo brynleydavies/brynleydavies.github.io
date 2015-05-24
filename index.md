@@ -3,6 +3,7 @@ layout: default
 title: Home
 published: true
 nav: main
+num: 01
 ---
 
 
