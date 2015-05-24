@@ -1,3 +1,9 @@
+---
+layout: page
+title: Brynley
+published: true
+---
+
 ![Photovid2_0_34_11.jpg]({{site.baseurl}}/media/Photovid2_0_34_11.jpg)
 
 - Scotland U18 National Endurance Coach and 2014 Commonwealth Games Scotland Cycle Team Assistant Coach
