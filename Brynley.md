@@ -1,6 +1,6 @@
 ---
 layout: page
-title: brynley
+title: Brynley
 published: true
 ---
 
