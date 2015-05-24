@@ -4,6 +4,7 @@ title: Team
 published: true
 ---
 
+
 We are pretty good at;
 
 - Bringing people together to experience a great challenge
@@ -15,8 +16,8 @@ We are pretty good at;
 - Building unique events which our customers, sponsors and charities can use to promote their brand
 - Sharing our passion for cycling experiences
 
-Brynley Davies, performance coach & event organiser
+[Brynley Davies, performance coach & event organiser](/brynley)
 
-Mark McKay, performance coach & event organiser
+[Mark McKay, performance coach & event organiser](/mark)
 
-Helen Weaver, soigneur and physio
+[Helen Weaver, soigneur and physio](/helen)
