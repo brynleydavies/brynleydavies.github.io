@@ -2,6 +2,7 @@
 layout: page
 title: Supported
 published: true
+permalink: /supported/
 nav: main
 num: 04
 ---

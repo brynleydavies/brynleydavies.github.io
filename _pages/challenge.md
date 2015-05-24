@@ -2,6 +2,7 @@
 layout: page
 title: Challenge
 published: true
+permalink: /challange/
 ---
 
 We often have corporate customers come to us asking how we can help them prepare properly for a cycling challenge that they have signed up for, just like in our client case study. We love this sort of assignment as we will research the event characteristics and demands that will be placed on the riders, and then devise a training plan for the group and individuals with various milestones along the way to measure progress and boost confidence.

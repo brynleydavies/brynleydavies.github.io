@@ -4,6 +4,7 @@ title: Team
 published: true
 nav: main
 num: 02
+permalink: /team/
 ---
 
 

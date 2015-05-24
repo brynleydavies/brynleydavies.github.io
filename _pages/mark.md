@@ -2,6 +2,7 @@
 layout: page
 title: Mark
 published: true
+permalink: /mark/
 ---
 ![Photovid4_2_35_0.jpg]({{site.baseurl}}/media/Photovid4_2_35_0.jpg)
 

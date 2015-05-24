@@ -2,6 +2,7 @@
 layout: page
 title: Brynley
 published: true
+permalink: /brynley/
 ---
 
 

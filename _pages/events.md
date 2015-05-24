@@ -2,6 +2,7 @@
 layout: page
 title: Events
 published: true
+permalink: /events/
 ---
 
 ##Rights to brand a prestigious challenge event

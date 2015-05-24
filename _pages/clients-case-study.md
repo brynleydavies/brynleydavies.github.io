@@ -4,6 +4,7 @@ title: Case Study
 published: true
 nav: main
 num: 05
+permalink: /clients-case-study/
 ---
 #Linklaters LLP
 

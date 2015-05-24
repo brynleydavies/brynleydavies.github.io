@@ -2,6 +2,7 @@
 layout: page
 title: Helen
 published: true
+permalink: /helen/
 ---
 
 - Sports Rehabilitator since June 2012 graduating from the University of Salford.

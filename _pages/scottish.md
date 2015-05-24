@@ -2,6 +2,7 @@
 layout: page
 title: Luxury Scottish Cycling Holidays
 published: true
+permalink: /scottish/
 ---
 
 Service Course Sport are offering you a fantastic opportunity to sample the best of Scotland.

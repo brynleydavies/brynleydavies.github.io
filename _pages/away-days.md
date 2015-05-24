@@ -2,6 +2,7 @@
 layout: page
 title: Away Days
 published: true
+permalink: /away-days/
 ---
 
 ##Closed circuit group coaching session ahead of Sportive challenge

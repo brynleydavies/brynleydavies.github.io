@@ -2,6 +2,7 @@
 layout: page
 title: Mallorcan
 published: true
+permalink: /mallorcan/
 ---
 
 A 5 star luxury 11th century farmhouse in a relaxing, rural location far away from busy Pollensa, at the foot of the Coll de sa Batalla climb. It has a large swimming pool and plenty of relaxation areas.
