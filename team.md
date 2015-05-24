@@ -1,3 +1,9 @@
+---
+layout: page
+title: Team
+published: true
+---
+
 We are pretty good at;
 
 - Bringing people together to experience a great challenge
