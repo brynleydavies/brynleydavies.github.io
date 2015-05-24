@@ -45,6 +45,14 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "layout"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "published"
+        field:
+          element: "text"
+          label: "Published"
       - name: "tags"
         field:
           element: "multiselect"
@@ -59,10 +67,18 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"
+          value: "page"
       - name: "permalink"
         field:
           element: "text"
           label: "Permalink"
+      - name: "layout"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "published"
+        field:
+          element: "text"
+          label: "Published"
 
 
