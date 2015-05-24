@@ -2,6 +2,7 @@
 layout: page
 title: Team
 published: true
+nav: main
 ---
 
 

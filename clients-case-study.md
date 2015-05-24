@@ -2,6 +2,7 @@
 layout: page
 title: Case Study
 published: true
+nav: main
 ---
 #Linklaters LLP
 

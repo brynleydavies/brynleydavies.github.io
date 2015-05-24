@@ -2,6 +2,7 @@
 layout: page
 title: Services
 published: true
+nav: main
 ---
 
 We believe you gain an advantage in building genuine customer relationships and therefore improved return on marketing/hospitality spend by partnering with Service Course Sport to create a coached cycling challenge which takes people out of their comfort zones like no other networking opportunity can.
