@@ -45,7 +45,7 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "layout"
+      - name: "title"
         field:
           element: "text"
           label: "Title"
@@ -72,7 +72,7 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-      - name: "layout"
+      - name: "title"
         field:
           element: "text"
           label: "Title"
