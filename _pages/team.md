@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Team
-published: true
+published: 
+  - true
+  - "true"
 nav: main
-num: 02
+num: 2
 permalink: /team/
 ---
 
 
-We are pretty good at;
+
+We are pretty good at; Testing
 
 - Bringing people together to experience a great challenge
 - Motivating our customers when the going gets tough
