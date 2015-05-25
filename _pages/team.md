@@ -11,8 +11,10 @@ permalink: /team/
 
 
 
+[Scotland-Holiday-Pic.jpg]({{site.baseurl}}/media/Scotland-Holiday-Pic.jpg)
 
-We are pretty good at;
+We are pretty good at; Testing!
+
 
 - Bringing people together to experience a great challenge
 - Motivating our customers when the going gets tough
