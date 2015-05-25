@@ -11,7 +11,8 @@ permalink: /team/
 
 
 
-We are pretty good at; Testing
+
+We are pretty good at;
 
 - Bringing people together to experience a great challenge
 - Motivating our customers when the going gets tough
