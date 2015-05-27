@@ -10,7 +10,10 @@ permalink: /team/
 ---
 
 
+
 We are pretty good at;
+
+![googleProfile.jpg]({{site.baseurl}}/media/googleProfile.jpg)
 
 
 - Bringing people together to experience a great challenge
