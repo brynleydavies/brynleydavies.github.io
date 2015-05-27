@@ -13,9 +13,6 @@ permalink: /team/
 
 We are pretty good at;
 
-![googleProfile.jpg]({{site.baseurl}}/media/googleProfile.jpg)
-
-
 - Bringing people together to experience a great challenge
 - Motivating our customers when the going gets tough
 - Logistics – we have organised road stage races and national championships
