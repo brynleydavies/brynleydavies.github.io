@@ -11,7 +11,7 @@ permalink: "/clients-case-study/"
 
 #Linklaters LLP
 
-We jhgjhjhgjghjgjg were approached by Senior Partners in the London office to put together an all encompassing challenge training package to ensure their 20 rider strong team of solicitors and clients were in as good shape as possible to complete stages of the Tour de Force Challenge. We researched their event and presented our plan to the team and guests in London and via live link-up to their Hong Kong office, and secured the contract.
+We were approached by Senior Partners in the London office to put together an all encompassing challenge training package to ensure their 20 rider strong team of solicitors and clients were in as good shape as possible to complete stages of the Tour de Force Challenge. We researched their event and presented our plan to the team and guests in London and via live link-up to their Hong Kong office, and secured the contract.
 
 We devised a 5 month coaching programme in which we provided;
 
